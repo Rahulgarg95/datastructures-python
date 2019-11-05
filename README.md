@@ -1,5 +1,5 @@
-# datastructures-python
-###### Python code depicting different data structures examples.
+# Datastructures-Python
+##### Python code depicting different data structures examples.
 
 ## List:
 
